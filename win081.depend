@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1337204092 source:c:\users\raul_\documents\winapi\win081\win081.rc
+	<windows.h>
+
+1565170442 source:c:\users\raul_\documents\institut duc de montblanc\tdr\practica\blackjack\blackjack\win081.c
+	<windows.h>
+	<commctrl.h>
+
+1565170123 source:c:\users\raul_\documents\institut duc de montblanc\tdr\practica\blackjack\blackjack\win081.rc
+	<windows.h>
+
+1565875271 source:c:\users\raul_\onedrive\tdr\practica\blackjack\blackjack\win081.rc
+	<windows.h>
+
+1565875183 source:c:\users\raul_\onedrive\tdr\practica\blackjack\blackjack\win081.c
+	<windows.h>
+	<commctrl.h>
+
+1567595075 source:c:\users\raul_\desktop\blackjack\blackjack\win081.c
+	<windows.h>
+	<commctrl.h>
+
+1566130706 source:c:\users\raul_\desktop\blackjack\blackjack\win081.rc
+	<windows.h>
+
+1567945456 source:c:\users\raul_\desktop\blackjack v.1.2\blackjack\win081.c
+	<windows.h>
+	<commctrl.h>
+
+1567767666 source:c:\users\raul_\desktop\blackjack v.1.2\blackjack\win081.rc
+	<windows.h>
+
+1567767666 source:c:\users\raul_\onedrive\blackjack v.1.2\blackjack\win081.rc
+	<windows.h>
+
+1568033140 source:c:\users\raul_\onedrive\blackjack v.1.2\blackjack\win081.c
+	<windows.h>
+	<commctrl.h>
+	<stdlib.h>
+	<time.h>
+
